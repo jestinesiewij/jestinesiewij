@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Jestine Siewij**.
+
+Saya seorang **Pelajar** di **Institut Sains dan Teknologi Terpadu Surabaya**.
+
+Saya aktif mengikuti berbagai organisasi di kampus sejak 2019.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/jestine-siewij-a1a2091ab/)ku ya.
+
 <!--
 **jestinesiewij/jestinesiewij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
